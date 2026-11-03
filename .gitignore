@@ -1,0 +1,12 @@
+# vim临时文件
+*.swp
+*.swo
+
+# 编译出来的可执行程序
+test
+bit_op
+*.o
+*.elf
+*.bin
+*.hex
+
